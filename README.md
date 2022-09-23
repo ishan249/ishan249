@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Ishan Patel</h1>
 <h3 align="center">Ambitious Web developer who loves to create cool tools and useful things for web.</h3>
 
-- 🌱 I’m currently learning **AngularJS**
 
 - 👨‍💻 All of my projects and blogs are available at [https://ishan249.github.io/portfolio/](https://ishan249.github.io/portfolio/)
 
 - 📝 I regularly write articles on [https://ishanpatel.hashnode.dev/](https://ishanpatel.hashnode.dev/)
 
-- 💬 Ask me about **NodeJS, MongoDB, ExpressJS**
+- 💬 Ask me about **JavaScript, NodeJS, MongoDB, ExpressJS**
 
 - 📫 How to reach me **249patelishan@gmail.com**
 
