@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ishan Patel</h1>
 <h3 align="center">Ambitious Web developers who loves to create cool tools and useful things for web.</h3>
 
-- 🌱 I’m currently learning **AngularJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://ishan249.github.io/portfolio/](https://ishan249.github.io/portfolio/)
 
