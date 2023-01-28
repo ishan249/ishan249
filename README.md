@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://ishan249.github.io/portfolio/](https://ishan249.github.io/portfolio/)
+- 👨‍💻 Checkout my portfolio - [https://ishanpatel.me/](https://ishanpatel.me/)
 
 - 📝 I regularly write articles on [https://ishanpatel.hashnode.dev/](https://ishanpatel.hashnode.dev/)
 
