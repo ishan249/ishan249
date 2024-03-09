@@ -1,15 +1,12 @@
 <h1 align="center">Hi, I'm Ishan Patel</h1>
 <h3 align="center">Ambitious Web developer who loves to create cool tools and useful things for web.</h3>
 
-- 👨‍💻 Checkout my portfolio - [https://ishanpatel.me/](https://ishanpatel.me/)
-
-- 📝 I regularly write articles on [https://ishanpatel.hashnode.dev/](https://ishanpatel.hashnode.dev/)
+- 📝 I write articles on [https://ishanpatel.hashnode.dev/](https://ishanpatel.hashnode.dev/)
 
 - 💬 Ask me about **ReactJS,NodeJS, MongoDB, ExpressJS**
 
 - 📫 How to reach me **249patelishan@gmail.com**
 
-- ⚡ Fun fact **I am also a good writer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
